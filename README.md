@@ -12,9 +12,12 @@ https://buildspace.so/
 Developers already exploring the ether, seek out to solve this imbalance and flip the supply deficiency by combining their forces and knowledge. With the right incentives, we can rapidly transform senior developers into senior Solidity developers.
 https://mint.ethernautdao.io/#home
 
-## learnweb3
+## learnWeb3DAO
 You can level up from beginner to expert here
 https://learnweb3.io/
+
+## Consensys Academy
+Educational platform by consensys with certification. They are coming with a new DAO for this  
 
 ## useweb3.xyz
 
