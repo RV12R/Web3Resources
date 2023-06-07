@@ -14,3 +14,5 @@ A curated list of EVM resources.
 
 ## [solidity-by-example](https://solidity-by-example.org/) or  Smart Contract Programmer on Youtube
 
+## [Web3Sec Notion](https://web3sec.notion.site/web3sec/Web3-Security-ddaa8bf9a985494dbaf70d698345b899)
+
