@@ -18,3 +18,8 @@ All about solidity with examples and videos.
 ## [Web3Sec Notion](https://web3sec.notion.site/web3sec/Web3-Security-ddaa8bf9a985494dbaf70d698345b899)
 All about security in Web3.
 
+## [The EVM Handbook](https://noxx3xxon.notion.site/noxx3xxon/The-EVM-Handbook-bb38e175cc404111a391907c4975426d)
+List of resources on EVM.
+
+## [Solodit](https://solodit.xyz/)
+Audit reports on diffrent projects from diffrent sources.
