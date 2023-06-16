@@ -23,3 +23,6 @@ List of resources on EVM.
 
 ## [Solodit](https://solodit.xyz/)
 Audit reports on diffrent projects from diffrent sources.
+
+## [MEVs](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)
+All about MEVs
